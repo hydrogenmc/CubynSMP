@@ -1,0 +1,117 @@
+{
+  "server": {
+    "name": "CubynSMP",
+    "description": "CubynSMP is a competitive Economy Survival Minecraft server inspired by DonutSMP gameplay. Players earn money, trade items, build bases, and compete with other players in a player-driven economy.",
+    "ip": "cubyn.xyz",
+    "port": "6058",
+    "features": [
+      "Player-driven economy",
+      "Trading and market system",
+      "Survival gameplay",
+      "Money grinding and progression",
+      "Balanced PvP mechanics",
+      "Community survival environment"
+    ]
+  },
+  "discord": {
+    "link": "https://discord.gg/XaUBr97NUW"
+  },
+  "ranks": [
+    {
+      "name": "VIP",
+      "color": "#FFA500",
+      "price": "₱50",
+      "duration": "30 Days",
+      "perks": [
+        "2x Homes",
+        "10x Concurrent Auctions",
+        "/grindstone Command",
+        "/disposal Command",
+        "/ec Command",
+        "/kit Command"
+      ]
+    },
+    {
+      "name": "MVP",
+      "color": "#87CEEB",
+      "price": "₱100",
+      "duration": "30 Days",
+      "perks": [
+        "3x Homes",
+        "15x Concurrent Auctions",
+        "/cartographytable Command",
+        "/stonecutter Command",
+        "/disposal Command",
+        "/craft Command",
+        "/grindstone Command",
+        "/kit Command"
+      ]
+    },
+    {
+      "name": "PRO",
+      "color": "linear-gradient(135deg, #FF4444, #FFA500)",
+      "price": "₱150",
+      "duration": "30 Days",
+      "perks": [
+        "4x Homes",
+        "20x Concurrent Auctions",
+        "/craft Command",
+        "/ec Command",
+        "/disposal Command",
+        "/stonecutter Command",
+        "/grindstone Command",
+        "/repair Command",
+        "/anvil Command",
+        "/cartographytable Command",
+        "/kit Command"
+      ]
+    },
+    {
+      "name": "ELITE",
+      "color": "#FF0000",
+      "price": "₱200",
+      "duration": "30 Days",
+      "perks": [
+        "5x Homes",
+        "25x Concurrent Auctions",
+        "/craft Command",
+        "/ec Command",
+        "/disposal Command",
+        "/stonecutter Command",
+        "/grindstone Command",
+        "/anvil Command",
+        "/smithingtable Command",
+        "/cartographytable Command",
+        "/repair Command",
+        "/ptime Command",
+        "/kit Command"
+      ]
+    },
+    {
+      "name": "LEGEND",
+      "color": "linear-gradient(135deg, #FF4444, #FFA500)",
+      "price": "₱400",
+      "duration": "30 Days",
+      "perks": [
+        "7x Homes",
+        "30x Concurrent Auctions",
+        "/craft Command",
+        "/cartographytable Command",
+        "/ec Command",
+        "/stonecutter Command",
+        "/grindstone Command",
+        "/anvil Command",
+        "/smithingtable Command",
+        "/ptime Command",
+        "/pweather Command",
+        "/repair Command",
+        "/near Command",
+        "/kit Command"
+      ]
+    }
+  ],
+  "hero": {
+    "title": "CubynSMP",
+    "tagline": "The Ultimate Economy Survival Experience"
+  }
+}
