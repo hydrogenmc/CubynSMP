@@ -1,0 +1,2 @@
+# CubynSMP
+CubynSMP Official website.
